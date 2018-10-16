@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libnexus_utils.a  CMakeFiles/nexus_utils.dir/SpherePointSampler.cpp.o CMakeFiles/nexus_utils.dir/LambertianRandomGenerator.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libnexus_utils.a

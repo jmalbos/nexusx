@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libnexus_base.a  CMakeFiles/nexus_base.dir/DetectorConstruction.cpp.o CMakeFiles/nexus_base.dir/PrimaryGeneration.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libnexus_base.a
